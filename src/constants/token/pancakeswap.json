@@ -1,0 +1,39 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WETH Token",
+      "symbol": "WETH",
+      "address": "0xdfF5253baa61aFeb0eE82e347DdE97B7e010a659",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+    },
+    {
+      "name": "Nick Token",
+      "symbol": "NICKS",
+      "address": "0xD23E1Fd2A27e05C34853b899A5E5143E2d97e7e7",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "The graph",
+      "symbol": "GRT",
+      "address": "0x22da4c544bb338d679d66266e1d11bb5b8f727ba",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    }
+  ]
+}
